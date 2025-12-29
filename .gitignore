@@ -74,9 +74,18 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# Private_Personal
 Private_Personal/**
 !Private_Personal/Readme.txt
+
+# vFolders
 vFolders/vFolders Data.asset
 vFolders/vFolders Data.asset.meta
 vFolders/vFolders Palette.asset
 vFolders/vFolders Palette.asset.meta
+
+# vHierarchy
+vHierarchy/vHierarchy Data.asset
+vHierarchy/vHierarchy Data.asset.meta
+vHierarchy/vHierarchy Palette.asset
+vHierarchy/vHierarchy Palette.asset.meta
