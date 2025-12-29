@@ -76,3 +76,7 @@ crashlytics-build.properties
 
 Private_Personal/**
 !Private_Personal/Readme.txt
+vFolders/vFolders Data.asset
+vFolders/vFolders Data.asset.meta
+vFolders/vFolders Palette.asset
+vFolders/vFolders Palette.asset.meta
